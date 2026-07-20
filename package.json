@@ -1,6 +1,6 @@
 {
   "name": "skill-check",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "Linter for agent skill files",
   "main": "src/index.ts",
   "scripts": {
